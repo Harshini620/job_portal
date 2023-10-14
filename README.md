@@ -5,8 +5,6 @@
 The Online Job Portal Application is a web-based platform built using the ASP.NET Framework and a database system to simplify the job search and recruitment process for both job seekers and employers. 
 ![Uploading Screenshot (1195).png…]()
 
-![Screenshot (1196)](https://github.com/Harshini620/job_portal/assets/134605084/1ea0dc93-0e78-447a-bedc-dd99d917d760)
-
 # Features
 *Job Seekers:*
 * Create and manage their profiles.
@@ -35,6 +33,7 @@ This project is licensed under the MIT License.
 # Contact
 If you have any questions or need further assistance, please contact www.linkedin.com/in/harshinit620.
 
+![Screenshot (1196)](https://github.com/Harshini620/job_portal/assets/134605084/4a1c89dd-46d0-4f94-b492-c2a71276de99)
 
 
 
