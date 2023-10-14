@@ -3,7 +3,7 @@
 
 # Overview
 The Online Job Portal Application is a web-based platform built using the ASP.NET Framework and a database system to simplify the job search and recruitment process for both job seekers and employers. 
-![Uploading Screenshot (1195).png…]()
+![Screenshot (1195)](https://github.com/Harshini620/job_portal/assets/134605084/c856af57-b847-4d69-b5e7-6e50eb03e10f)
 
 # Features
 *Job Seekers:*
